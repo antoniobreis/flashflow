@@ -23,7 +23,7 @@ Praticar os fundamentos de desenvolvimento web front-end, trabalhando com manipu
 
 ## 🔗 Acesse o projeto
 
-👉 [Link para o site via GitHub Pages](https://antoniobreis.github.io/flashflow/)
+👉 [FlashFlow](https://antoniobreis.github.io/flashflow/)
 
 ---
 
